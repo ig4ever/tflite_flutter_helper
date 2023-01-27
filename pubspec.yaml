@@ -12,15 +12,15 @@ dependencies:
     sdk: flutter
   meta: ^1.1.8
   quiver: ^3.0.1
-  path_provider: ^2.0.1
+  path_provider: ^2.0.11
   tflite_flutter: # ^0.9.0 # custom ml neural networks
     git:
       url: https://github.com/ig4ever/tflite_flutter_plugin
       ref: master
   tuple: ^2.0.0
-  camera: ^0.10.0
+  camera: ^0.9.4+19
   ffi: ^2.0.1
-  image: ^3.0.2
+  image: ^3.2.0
 dev_dependencies:
   flutter_test:
     sdk: flutter
